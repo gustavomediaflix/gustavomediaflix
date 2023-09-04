@@ -52,6 +52,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1
 #EXTINF:-1 tvg-id="6489c4a066e48500083ccf97" tvg-logo="https://images.pluto.tv/channels/6489c4a066e48500083ccf97/colorLogoPNG.png" group-title="42.MultiChannel",Starsky & Hutch
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6489c4a066e48500083ccf97/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+#EXTINF:-1 tvg-id="63eb9cfbc111bc0008feda3b" tvg-logo="https://images.pluto.tv/channels/63eb9cfbc111bc0008feda3b/colorLogoPNG.png" group-title="42.MultiChannel",Barrados no Baile
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9cfbc111bc0008feda3b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 tvg-id="605cc4de7ff3c50007be0f65" tvg-logo="http://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="42.MultiChannel",Geek e Tech
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
@@ -69,9 +72,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b
 
 #EXTINF:-1 tvg-id="62fd6b865a502400075b2caf" tvg-logo="https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png" group-title="42.MultiChannel",A culpa é do cabral
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="63eb9cfbc111bc0008feda3b" tvg-logo="https://images.pluto.tv/channels/63eb9cfbc111bc0008feda3b/colorLogoPNG.png" group-title="42.MultiChannel",Barrados no Baile
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9cfbc111bc0008feda3b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 
 #### 46.Cartoon ###
