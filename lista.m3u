@@ -63,6 +63,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865
 #EXTINF:-1 tvg-id="63eb9cfbc111bc0008feda3b" tvg-logo="https://images.pluto.tv/channels/63eb9cfbc111bc0008feda3b/colorLogoPNG.png" group-title="42.MultiChannel",Barrados no Baile
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9cfbc111bc0008feda3b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+#EXTINF:-1 tvg-id="645951c0e94c38000802d2cb" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png" group-title="42.MultiChannel",Nick
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645951c0e94c38000802d2cb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="42.MultiChannel",NickTeen
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
@@ -97,6 +100,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d
 
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="61.Cine",Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="6479ff764f5ba5000878dfe2" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="61.Cine",Cine Crime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="61.Cine",Cine Inspiração
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="61.Cine",Ficção Científica
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
