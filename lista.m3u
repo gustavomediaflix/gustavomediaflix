@@ -44,10 +44,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6144d0885
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Esportes
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-logo="" group-title="",Esportes
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-
 
 
 
