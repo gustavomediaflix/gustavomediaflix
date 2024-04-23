@@ -170,3 +170,6 @@ https://stream.ads.ottera.tv/cl/240423cojt84flv2pd3cf6kgjg/1280x720_3071200_0_f.
 
 #EXTINF:-1 tvg-logo="" group-title="",RunTime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="" group-title="",Movie Sphere
+chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://stream.ads.ottera.tv/cl/240423cojtacf2jsmbdqqojl30/1920x1080_6046040_3_f.m3u8?i=728_6178
