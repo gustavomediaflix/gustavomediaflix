@@ -1,5 +1,19 @@
 #EXTM3U
 
+
+
+
+
+
+#### 04.TV Aberta ####
+
+
+
+
+
+
+
+
 #### 22.Music TV ####
 
 #EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="22.Music TV",Vevo 70s
@@ -22,6 +36,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b91e06
 
 
 #### 39.Top Sport ####
+
+
+#EXTINF:-1 tvg-id="6144d088516ea8000739076a" tvg-logo="" group-title="",Fuel TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+
 
 #EXTINF:-1 tvg-id="6144d088516ea8000739076a" tvg-logo="http://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="39.Top Sport",Fuel TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
