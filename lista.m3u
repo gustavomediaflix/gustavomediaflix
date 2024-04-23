@@ -2,9 +2,8 @@
 
 
 
-
-
 #### 04.TV Aberta ####
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TV Brasil Web
@@ -21,30 +20,9 @@ https://stmv1.paineltv.net/ulbtv/ulbtv/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RunTime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-
-#EXTINF:-1 tvg-logo="" group-title="",RunTime Comédia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-
-#EXTINF:-1 tvg-logo="" group-title="",RunTime Família
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-
-#EXTINF:-1 tvg-logo="" group-title="",RunTime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-
-
-
-
-
-
-
-
-
-
-
 #### 22.Music TV ####
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Vevo 70s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -65,7 +43,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 
+
 #### 39.Top Sport ####
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Fuel TV
@@ -77,7 +57,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",New Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+
+
 #### 42.MultiChannel ###
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Retrô
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -98,7 +82,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 
+
 #### 51.Documentários ###
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Mistérios
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -119,7 +106,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 
+
 #### 55.Kids ###
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Kids
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -134,7 +124,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645951c0e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 
+
 #### 61.Cine ####
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -165,3 +158,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a6
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Filmes Nacionais
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RunTime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-logo="" group-title="",RunTime Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-logo="" group-title="",RunTime Família
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="" group-title="",RunTime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
