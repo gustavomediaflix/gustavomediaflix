@@ -9,9 +9,6 @@
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Globo RJ
-https://live-01.edge-predialnet-nit-rj.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1wcmVkaWFsbmV0LW5pdC1yai52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MTM5NzQzMzEsImlhdCI6MTcxMzg4NzkzMSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0N2IxMGFkYi1lYmNlLTQ2YjYtYTI1Yy04MzEzMzMzZDJhN2IiLCJwYXRoIjoiL251L2YoYk1pbj05MDAwMDAsZHZyPTEyMCkvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.wRlHrkmP_ATImZlQcTVTotLhEcYK0sdMBv4mJUvcTohW_6AkyINbtPWIM7YCVw8j5mceByrepg8GeAtmO7oucTwkiu4dfB8frlUbMIJz2yiVKF1NxXClsXTIZpCtWMQG7K3yPTWKEM5vHdZ0Q2f2x9uiLVHN-KVvHXCsFRpd0yXA2JfwgzBZyXg_-b_VIpt1HegGGlUR09xtzKaLV11Dv88UrVoP2FhdOhCiqbJgrA4dIObUYC9cbay7qY9p72aBzZXrWEdDkBfAYjxyvwZJBH_hjpFffOoQlHRoRUSfR3pAVYfi3QRLfmYXPVxL2p0E_joBBoT0V58hQSsTd59W1A/nu/f(bMin=900000,dvr=120)/globo-rj/playlist.m3u8?originpath=/linear/hls/pa/event/5A2UozzFT1ODGks4EciCkw/stream/4e5df7e6-8cfb-4636-8b2c-dc6f91d31b64:SCL/variant/e74479202a6c1c04133ccd9175af7101/bandwidth/6577000.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Rede Brasil
 https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 
@@ -49,8 +46,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b91e06
 
 #### 39.Top Sport ####
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",GE
-https://live-01.edge-predialnet-nit-rj.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1wcmVkaWFsbmV0LW5pdC1yai52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MTM5NzQxMTgsImlhdCI6MTcxMzg4NzcxOCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0N2IxMGFkYi1lYmNlLTQ2YjYtYTI1Yy04MzEzMzMzZDJhN2IiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwKS9zcG9mYXN0MjRoYS9wbGF5bGlzdC5tM3U4In0.nUYKX8lEfNeVVq_TxqggrTviNlc_pH6uq1WK38bDZbSi26yz2FkGX1GrviGfZUC3Stee90WvsqfxTVHcLtQd3CS0kFLrMTNbeuhPHiK2ArvRNI2N7dVTAwmefKkRdrvK11U-CTVuI-YtgaxVhIuLMfyxqWfp4LsBgZMCMU_5pyOX1yLjVRue8NjN-KnQUiuQfjXYGbAhnQTUvCr9TbjU1tLztF08iPDKPaH83UvUrqVVvKYk34LcPHnD0EzeL8KUcF2h3BZ3xOtAe5kGwV9Ma3H8tHL4lkz8o_7I6FjkanV1KnK0jM4luMWIcbDi4Sa3r0eXr5xJBinrAkpboBIskg/nu/f(bMin=2000)/spofast24ha/playlist.m3u8?originpath=/linear/hls/pa/event/74fS7xoNQRySo6Fy20Oqgw/stream/be37e2ff-fc55-4704-b385-f82a6bc458c1:SCL/variant/3eb9027aa6462a39bb63ed9e33e4ded9/bandwidth/4235000.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Fuel TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -66,9 +62,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645a99282
 #### 42.MultiChannel ###
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Receitas
-https://live-01.edge-predialnet-nit-rj.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1wcmVkaWFsbmV0LW5pdC1yai52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MTM5NzQzOTQsImlhdCI6MTcxMzg4Nzk5NCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0N2IxMGFkYi1lYmNlLTQ2YjYtYTI1Yy04MzEzMzMzZDJhN2IiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwKS9nbnRmYXN0MjRoYS9wbGF5bGlzdC5tM3U4In0.tLAgjyfPPVY5FmezQPWHj6zY7AgWXtfxDthdgWXKJ5Npb-Z-WtiTu32KTjTRGWyWCLY7MKbF6dnFOUXo_M2VvT0FAjnrtDB_27iB3L3ZsPJEX2tYZG-h7fOAywvOZ4I3jNGna_EnvVYXHB51uipD9bBZ0ZEkLgncjK1-Nt1piERFC3U9n1ktoGtebFO3BFYD4yQw-VlYB36Qa61LFgtP0er22r2WuH9vsAVlVVda_7Gm2P6Cm99zAiM5dMn_Zy1Qp_YI-jhaGNiR0IsXSFPsMoEpJEMsz50vD2MBPxMZ5fMNf-pe_r796ilGOyfJphsLG0YLxxt0kL4lrZv1kS0KQA/nu/f(bMin=2000)/gntfast24ha/playlist.m3u8?originpath=/linear/hls/pa/event/Wmng55atSh-3bEYkvkRuBg/stream/e6fee93e-afa0-4b56-8156-132e4b50d436:SCL/variant/39d714c1b4eb14dae351057347dc2940/bandwidth/4235000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Retrô
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
