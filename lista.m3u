@@ -19,7 +19,9 @@ https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
 https://stmv1.paineltv.net/ulbtv/ulbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/ZcHrNoa.png" group-title="",ISTV
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w215733709.m3u8
+
+
 
 
 #### 22.Music TV ####
