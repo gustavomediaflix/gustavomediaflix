@@ -4,24 +4,32 @@
 
 #### ##.TV Aberta ####
 
-
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/faZEzAh.png" group-title="",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/faZEzAh.png" group-title="",TV Brasil Web
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Rede Brasil
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/ZgnRZ47.png" group-title="",Rede Brasil
 https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TV Carioca
+#EXTINF:-1 tvg-id="TVCarioca.br" tvg-logo="https://i.imgur.com/O1WAn2z.png" group-title="",TV Carioca
+https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCarioca.br" tvg-logo="https://i.imgur.com/O1WAn2z.png" group-title="",TV Carioca | Brasil
 https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
 
 #EXTINF:-1 tvg-language="" tvg-logo="" group-title="",ULB TV
 https://stmv1.paineltv.net/ulbtv/ulbtv/playlist.m3u8
 
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://ulbtv.com.br/wp-content/uploads/2023/04/20230412_114257.png" group-title="",ULB TV | Brasil
+https://stmv1.paineltv.net/ulbtv/ulbtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w215733709.m3u8
 
-
+#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/ZcHrNoa.png" group-title="",ISTV | Brasil
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w215733709.m3u8
 
 
 #### 22.Music TV ####
